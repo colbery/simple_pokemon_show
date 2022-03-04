@@ -1,0 +1,16 @@
+li {
+    background-color: #B10DC9;
+  }
+  
+  .highlight {
+    background-color: #7FDBFF;
+  }
+
+  .pokemon{
+    display: inline-block;
+    text-align: center;
+
+  }
+  .pokemon img{
+    display: block;
+  }
